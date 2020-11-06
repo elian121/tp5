@@ -1,0 +1,5 @@
+class pantallainicio{
+
+pantallainicio(){}
+
+}
